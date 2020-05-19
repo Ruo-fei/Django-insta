@@ -1,4 +1,5 @@
 {
     "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.linting.enabled": true,
+    "python.pythonPath": "/Users/MyMacbookPro/.local/share/virtualenvs/InstaJZ-GsiBMJwh/bin/python"
 }
